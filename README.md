@@ -1,5 +1,5 @@
-# Singular Values Decomposition
-Repository for Singular Values Decomposition project in Linear Algebra in Data Analysis course 2023, a part of Data Science Engineering Programme at Warsaw University of Technology.
+# Singular Value Decomposition
+Repository for Singular Value Decomposition project in Linear Algebra in Data Analysis course 2023, a part of Data Science Engineering Programme at Warsaw University of Technology.
 
 The repository consists of the following files:
 
